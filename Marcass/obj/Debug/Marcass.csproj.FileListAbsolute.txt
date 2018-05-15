@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2017\Projects\Marcass\Marcass\bin\Debug\Marcass.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Marcass\Marcass\bin\Debug\Marcass.exe
+c:\users\user\documents\visual studio 2017\Projects\Marcass\Marcass\bin\Debug\Marcass.pdb
+c:\users\user\documents\visual studio 2017\Projects\Marcass\Marcass\obj\Debug\Marcass.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Marcass\Marcass\obj\Debug\Marcass.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\Marcass\Marcass\obj\Debug\Marcass.exe
+c:\users\user\documents\visual studio 2017\Projects\Marcass\Marcass\obj\Debug\Marcass.pdb
